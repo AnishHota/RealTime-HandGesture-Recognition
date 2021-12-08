@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=python3 ui_qtpy.py
+Name=Major Project
+Terminal=true
+Name[en_IN]=desk.desktop
+StartupNotify=True
